@@ -1,0 +1,24 @@
+# Site settings
+title: Grayscale
+email: info@makimuhendislik.com.tr
+url: http://www.makimuhendislik.com.tr
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#de7f3c'
+
+# Footer settings
+footer: Maki Mühendislik
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://www.twitter.com/makimuhendislik
+  - title: facebook
+    url: https://www.facebook.com/makimuhendislik
+
+# Build settings
+markdown: kramdown
+permalink: pretty
