@@ -27,3 +27,4 @@ permalink: pretty
 # Gems
 gems:
   - jekyll-sitemap
+  - jekyll-last-modified-at
