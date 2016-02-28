@@ -413,3 +413,10 @@ background-size: cover;
 .references-section ul {
     list-style: none;
 }
+
+.references-section ul li div {
+    margin-bottom: 25px;
+    margin-top: 10px;
+    border-bottom: 1px solid #cccccc;
+    padding: 10px;
+}
